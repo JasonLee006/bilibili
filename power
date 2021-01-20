@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一起助力</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #box{
+           max-width: 100vw;
+           height: 60vh;
+         
+          margin-top: 40vh;
+          padding:0 20px;
+        }
+        #box2{
+            width: 100%;
+            text-align: center;
+            padding-top: 40px;
+        }
+        #btn{
+            width: 200px;
+            height: 60px;
+            margin: 0 auto;
+            font-size: 24px;
+            border: 0;
+            background-color: rgb(90, 197, 247);
+            border-radius: 6px;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        <p>点击“继续助力”，注册下载然后登录点一下助力就行了，百分百通过哦</p>
+        <a href="http://youchonghui.cn/rpDfs2zNyESLt7gJl1611140532/power_share.html?token=fafbbe8a966d6590a333137f9c560f7d&channel=pic&powerup_status=1">
+        <div id="box2">
+            <button id="btn"  class="animate__animated animate__bounce">继续助力</button>
+        </div>
+         </a> 
+    </div>
+
+</body>
+</html>
